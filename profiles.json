@@ -1,0 +1,73 @@
+{
+    "profiles":[
+    {
+        "empId" : "267690",
+        "name" : "Karthick",
+        "role" : "Front End Developer",
+        "designation" : "Senior Assocate",
+        "location" : "Coimbatore",
+        "company" : "Cognizant Technology Solutions",
+        "availability" : [{
+          "isAvailable" : true,
+          "from" : "12/21/2017"
+        }],
+        "summary" : "Around 10+ years of extensive programming experience in developing Web based applications and Client-Server technologies",
+        "lastprojct" : "CareCentrix 98",
+        "technology" :[ "HTML", "JavaScript", "CSS", "Angular"],
+        "experience" : 10
+    },
+    
+    {
+        "empId" : "155934",
+        "name" : "Chandan",
+        "role" : "UX/UI Architect",
+        "designation" : "Manager",
+        "location" : "Hyderabad",
+        "company" : "Cognizant Technology Solutions",
+        "availability" : [{
+          "isAvailable" : false,
+          "from" : ""
+        }],
+        "summary" : "Solid experience in AngularJS for creating single page web apps utilizing MVC frameworks",
+        "lastprojct" : "Blue Sheild California",
+        "technology" :[ "HTML", "JavaScript", "CSS", "Angular", "UX", "Management"] ,
+          "experience" : 12
+    },
+    
+    {
+        "empId" : "435588",
+        "name" : "Kirishnaanand",
+        "role" : "Java Architech",
+        "designation" : "Manager",
+        "location" : "Coimbatore",
+        "company" : "Cognizant Technology Solutions",
+        "availability" : [{
+          "isAvailable" : false,
+          "from" : ""
+        }],
+        "summary" : "Expertise in JAVA Spring MVC framework for developing responsive layouts. Proven track record in Graphic and User Experience Design",
+        "lastprojct" : "CareCentrix 98",
+        "technology" :[ "HTML", "JavaScript", "CSS", "Angular"],
+        "experience" : 12
+    },
+    
+    {
+        "empId" : "479032",
+        "name" : "Satish Kumar",
+        "role" : "Front End Developer",
+        "designation" : "Senior Assocate",
+        "location" : "Coimbatore",
+        "company" : "Cognizant Technology Solutions",
+        "availability" : [{
+          "isAvailable" : true,
+          "from" : "12/30/2017"
+        }],
+        "summary" : "Around 10+ years of extensive programming experience in developing Web based applications and Client-Server technologies",
+        "lastprojct" : "CareCentrix 98",
+        "technology" :[ "HTML", "JavaScript", "CSS", "Angular", "NodeJs", "PhotoShop"],
+            "experience" : 15
+    }
+    
+    ]
+
+}
